@@ -2,6 +2,7 @@
 python based parametric 3D propeller generation tool.
 
 PropellerGen is designed to work as a post-processing 3D generator for OpenProp.
+
 PropellerGen reads the exported file and translates the raw coordinate data into a fully rendered 3D propeller blade.
 
 first analysis result.
